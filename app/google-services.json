@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566056993637",
+    "project_id": "cortedeeliteapp",
+    "storage_bucket": "cortedeeliteapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566056993637:android:8656838241b826dd4d578c",
+        "android_client_info": {
+          "package_name": "com.barbearia.cortedelite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADaS8gD1jzUJ5RWZn1yevf_83utNEpzvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
